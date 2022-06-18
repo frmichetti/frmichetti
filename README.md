@@ -1,4 +1,4 @@
-## Oiii eu sou o Felipe Rodrigues Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia
+## Olá, eu sou Felipe Rodrigues Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
 <div align="center">
   <a href="https://github.com/frmichetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frmichetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

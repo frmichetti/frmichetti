@@ -28,3 +28,6 @@
   <a href="https://frmichetti.github.io/about.he" target="_blank"><img src="https://img.shields.io/badge/-Web-%230077B5?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
   <a href="https://www.androidpro.com.br/blog/estudos-de-casos-de-alunos/app-meu-portfolio-de-desempregado-a-desenvolvedor-web-e-mobile/" target="_blank"><img src="https://img.shields.io/badge/-Minha História de Vida Profissional-%230077B5?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
 </div>
+
+<hr></hr>
+<a href="https://play.google.com/store/apps/dev?id=6738843092856198287" target="_blank"><img src="https://img.shields.io/badge/-Meus Aplicativos na Loja Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>

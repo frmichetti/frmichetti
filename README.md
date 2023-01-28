@@ -1,5 +1,5 @@
 ## Olá, eu sou Felipe Rodrigues Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" /> </p>
 <div align="center">
   <a href="https://github.com/frmichetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frmichetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

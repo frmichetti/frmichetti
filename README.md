@@ -25,6 +25,8 @@
   <!--<a href = "mailto:frmichetti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/frmichetti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <hr></hr>
-  
+
+<!--  
 ### Portfólios e outros
 <a href="https://play.google.com/store/apps/dev?id=6738843092856198287" target="_blank"><img src="https://img.shields.io/badge/-Meus Aplicativos na Loja Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
+--!>

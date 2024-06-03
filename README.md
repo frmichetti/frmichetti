@@ -1,4 +1,8 @@
 ## Olá, eu sou Felipe R Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
+### Programador c/ perfil Full Stack: JAVA, RUBY, JAVASCRIPT, TYPESCRIPT, PYTHON e GO-LANG.
+### Profissional com carreira sólida em desenvolvimento de software.
+### Desenvolvedor de Sistemas especialista em dados e integrações.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" /> </p>
 <div align="center">
   <a href="https://github.com/frmichetti">

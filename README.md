@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/frmichetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frmichetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="270em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frmichetti&layout=compact&langs_count=30&theme=dracula&count_private=true"/>
+  <img height="270em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frmichetti&layout=compact&langs_count=30&theme=dracula&count_private=false"/>
 </div>
   
 ### Linguagens Backend Preferidas  

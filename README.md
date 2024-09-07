@@ -61,3 +61,10 @@
 <a href="https://play.google.com/store/apps/dev?id=6738843092856198287" target="_blank">
 <img src="https://img.shields.io/badge/-Meus Aplicativos na Loja Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank">
 </a>
+
+### Resume e Skills
+<a href="https://gist.github.com/frmichetti/565bf971a2c5c621a34693b7463c2671" target="_blank">
+<img src="https://img.shields.io/badge/-My Resume and Skills-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank">
+</a>
+
+

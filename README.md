@@ -1,7 +1,8 @@
 ## Olá, eu sou Felipe R Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
 #### Programador c/ perfil Full Stack: JAVA, RUBY, NODEJS, ASP .NET CORE
-#### Profissional com carreira sólida em desenvolvimento de software.
+### Profissional com carreira sólida em desenvolvimento de software.
 ### Desenvolvedor de Sistemas especialista em dados e integrações.
+#### Atuando como desenvolvedor backend na Packsys Tecnologia da Informação
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" /> </p>
 <div align="center">

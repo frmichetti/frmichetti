@@ -1,5 +1,5 @@
 ## Olá, eu sou Felipe R Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
-#### Programador c/ perfil Full Stack: JAVA, RUBY, NODEJS, ASP .NET CORE
+### Programador JAVA c/ perfil Full Stack
 ### Profissional com carreira sólida em desenvolvimento de software.
 ### Desenvolvedor de Sistemas especialista em dados e integrações.
 #### Atuando como desenvolvedor Full Stack Java na Packsys Tecnologia da Informação
@@ -58,14 +58,10 @@
 <img src="https://img.shields.io/badge/-Meu Portfólio Mobile-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank">
 </a>
 
-### Outros Aplicativos
-<a href="https://play.google.com/store/apps/dev?id=6738843092856198287" target="_blank">
-<img src="https://img.shields.io/badge/-Meus Aplicativos na Loja Google Play-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank">
-</a>
-
 ### Resume e Skills - Currículo e Habilidades
-<a href="https://gist.github.com/frmichetti/565bf971a2c5c621a34693b7463c2671" target="_blank">
-<img src="https://img.shields.io/badge/-My Resume and Skills-%230077B5?style=for-the-badge&logo=android&logoColor=white" target="_blank">
+
+<a href="https://gist.github.com/frmichetti/e4aecf1bf8b985dbcbdb9142cd73299a" target="_blank">
+<img src="https://img.shields.io/badge/-My Resume and Skills-%230077B5?style=for-the-badge" target="_blank">
 </a>
 
 

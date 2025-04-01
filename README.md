@@ -1,5 +1,5 @@
 ## Olá, eu sou Felipe R Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
-### Programador JAVA c/ perfil Full Stack
+### Desenvolvedor Java com 9 anos de experiência em desenvolvimento de software, como serviços web, microsserviços e APIs REST.
 ### Profissional com carreira sólida em desenvolvimento de software.
 ### Desenvolvedor de Sistemas especialista em dados e integrações.
 #### Atuando como desenvolvedor Full Stack Java na Packsys Tecnologia da Informação

@@ -1,4 +1,4 @@
-## Olá, eu sou Felipe R Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
+## Olá, eu sou Felipe Rodrigues Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP
 ### Desenvolvedor Java com 9 anos de experiência em desenvolvimento de software, como serviços web, microsserviços e APIs REST.
 ### Profissional com carreira sólida em desenvolvimento de software.
 ### Desenvolvedor de Sistemas especialista em dados e integrações.

@@ -59,8 +59,7 @@
 </a>
 
 ### Resume e Skills - Currículo e Habilidades
-
-<a href="https://gist.github.com/frmichetti/e4aecf1bf8b985dbcbdb9142cd73299a" target="_blank">
+<a href="https://gist.github.com/frmichetti/565bf971a2c5c621a34693b7463c2671" target="_blank">
 <img src="https://img.shields.io/badge/-My Resume and Skills-%230077B5?style=for-the-badge" target="_blank">
 </a>
 

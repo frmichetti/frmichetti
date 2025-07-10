@@ -8,7 +8,7 @@
 <p>
 Apaixonado por construir soluções de software robustas e eficientes, com foco em dados e integrações complexas. Possuo uma carreira sólida em desenvolvimento, abrangendo diversas tecnologias e paradigmas para entregar resultados de alto impacto.
 
-Minha expertise se estende desde o desenvolvimento backend com linguagens como Node.js (Typescript e Javascript), Ruby e Ruby on Rails, Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js.
+Minha expertise se estende desde o desenvolvimento backend com linguagens como Node.js (Typescript e Javascript), Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js.
 
 Tenho experiência comprovada na arquitetura e implementação de soluções escaláveis e resilientes em plataformas de nuvem líderes como AWS, Heroku e GCP. Além disso, adoto práticas de DevOps, incluindo gestão de infraestrutura como código, implantação contínua (CI/CD) e conteinerização com Docker, para otimizar o ciclo de vida do software.
 

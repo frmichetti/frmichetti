@@ -5,6 +5,20 @@
 #### Atuando como desenvolvedor Full Stack Java na Packsys Tecnologia da Informação
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" /> </p>
+<p>
+Apaixonado por construir soluções de software robustas e eficientes, com foco em dados e integrações complexas. Possuo uma carreira sólida em desenvolvimento, abrangendo diversas tecnologias e paradigmas para entregar resultados de alto impacto.
+
+Minha expertise se estende desde o desenvolvimento backend com linguagens como Node.js (Typescript e Javascript), Ruby e Ruby on Rails, Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js.
+
+Tenho experiência comprovada na arquitetura e implementação de soluções escaláveis e resilientes em plataformas de nuvem líderes como AWS, Heroku e GCP. Além disso, adoto práticas de DevOps, incluindo gestão de infraestrutura como código, implantação contínua (CI/CD) e conteinerização com Docker, para otimizar o ciclo de vida do software.
+
+Acredito na colaboração e comunicação eficaz como pilares para o sucesso de projetos. Minhas habilidades em gestão e integração de dados me permitem transformar informações em valor estratégico para o negócio.
+
+Sou reconhecido por minha capacidade analítica e de resolução de problemas, além do meu compromisso com a qualidade do código através de revisões rigorosas.
+
+Se você busca um desenvolvedor versátil, com forte conhecimento em dados e integrações, e que preza pela excelência técnica e trabalho em equipe, entre em contato! Estou sempre aberto a novas oportunidades e desafios.
+  
+</p>
 <div align="center">
   <a href="https://github.com/frmichetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frmichetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

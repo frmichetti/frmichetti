@@ -10,7 +10,7 @@
 
 🚀 Minha expertise se estende desde o desenvolvimento backend com tecnologias cutting-edge como Node.js (TypeScript e JavaScript), Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js. Sempre de olho nas tendências mais hype do desenvolvimento!
 
-☁️ Possuo experiência comprovada na arquitetura e implementação de soluções escaláveis em plataformas de nuvem como AWS, Heroku e GCP. Adoto práticas modernas de DevOps, incluindo infraestrutura como código, CI/CD e conteinerização com Docker.
+☁️ Possuo experiência comprovada na arquitetura e implementação de soluções escaláveis em plataformas de nuvem como AWS e Heroku. Adoto práticas modernas de DevOps, incluindo infraestrutura como código, CI/CD com Jenkins e conteinerização com Docker.
 
 🤖 Entusiasta de Inteligência Artificial, estou constantemente explorando como IA pode revolucionar o desenvolvimento de software e criar experiências incríveis para usuários. Acredito que estamos vivendo uma era dourada da tecnologia!
 

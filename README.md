@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" /> </p>
 <p>
-Sou Desenvolvedor de Software, com forte atuação em Dados e Integrações, trabalhando com Backend, Frontend e Nuvem.
+  Sou Desenvolvedor de Software, com forte atuação em Dados e Integrações, trabalhando com Backend, Frontend e Nuvem.
 
 🔥 Sou apaixonado por construir soluções de software robustas e eficientes, sempre em busca das tecnologias mais modernas e empolgantes do mercado. Especializo-me em dados e integrações complexas, mas tenho um carinho especial por Inteligência Artificial e suas infinitas possibilidades.
 
-🚀 Minha expertise vai desde o desenvolvimento backend com tecnologias cutting-edge como Node.js (TypeScript e JavaScript) e Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js. Estou sempre atento às tendências mais hype do desenvolvimento de software.
+🚀 Minha expertise vai desde o desenvolvimento backend com tecnologias cutting-edge como Java (Spring Boot e Quarkus) e Node.js (TypeScript e JavaScript), até a criação de interfaces frontend dinâmicas com Vue.js. Estou sempre atento às tendências mais hype do desenvolvimento de software.
 
 ☁️ Tenho experiência comprovada na arquitetura e implementação de soluções escaláveis em plataformas de nuvem como AWS e Heroku. Adoto práticas modernas de DevOps, incluindo infraestrutura como código, CI/CD com Jenkins e conteinerização com Docker.
 

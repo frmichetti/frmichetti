@@ -6,20 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" /> </p>
 <p>
-🔥 Apaixonado por construir soluções de software robustas e eficientes, sempre em busca das tecnologias mais modernas e empolgantes do mercado! Especializo-me em dados e integrações complexas, mas tenho um amor especial por Inteligência Artificial e suas infinitas possibilidades.
+Sou Desenvolvedor de Software, com forte atuação em Dados e Integrações, trabalhando com Backend, Frontend e Nuvem.
 
-🚀 Minha expertise se estende desde o desenvolvimento backend com tecnologias cutting-edge como Node.js (TypeScript e JavaScript), Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js. Sempre de olho nas tendências mais hype do desenvolvimento!
+🔥 Sou apaixonado por construir soluções de software robustas e eficientes, sempre em busca das tecnologias mais modernas e empolgantes do mercado. Especializo-me em dados e integrações complexas, mas tenho um carinho especial por Inteligência Artificial e suas infinitas possibilidades.
 
-☁️ Possuo experiência comprovada na arquitetura e implementação de soluções escaláveis em plataformas de nuvem como AWS e Heroku. Adoto práticas modernas de DevOps, incluindo infraestrutura como código, CI/CD com Jenkins e conteinerização com Docker.
+🚀 Minha expertise vai desde o desenvolvimento backend com tecnologias cutting-edge como Node.js (TypeScript e JavaScript) e Java (Spring Boot e Quarkus), até a criação de interfaces frontend dinâmicas com Vue.js. Estou sempre atento às tendências mais hype do desenvolvimento de software.
 
-🤖 Entusiasta de Inteligência Artificial, estou constantemente explorando como IA pode revolucionar o desenvolvimento de software e criar experiências incríveis para usuários. Acredito que estamos vivendo uma era dourada da tecnologia!
+☁️ Tenho experiência comprovada na arquitetura e implementação de soluções escaláveis em plataformas de nuvem como AWS e Heroku. Adoto práticas modernas de DevOps, incluindo infraestrutura como código, CI/CD com Jenkins e conteinerização com Docker.
 
-🤝 Valorizo a colaboração e comunicação eficaz como pilares fundamentais. Minhas habilidades em gestão e integração de dados me permitem transformar informações brutas em valor estratégico real para o negócio.
+🤖 Sou entusiasta de Inteligência Artificial e estou constantemente explorando como a IA pode revolucionar o desenvolvimento de software e criar experiências incríveis para os usuários. Acredito que estamos vivendo uma verdadeira era dourada da tecnologia.
 
-💡 Reconhecido por minha capacidade analítica, resolução criativa de problemas e compromisso inabalável com a qualidade do código através de revisões rigorosas e boas práticas.
+🤝 Valorizo a colaboração e a comunicação eficaz como pilares fundamentais do meu trabalho. Minhas habilidades em gestão e integração de dados me permitem transformar informações brutas em valor estratégico real para o negócio.
 
-✨ Se você busca um desenvolvedor que não apenas domina tecnologias consolidadas, mas também abraça o futuro com IA e tecnologias emergentes, vamos conversar! Estou sempre aberto a novos desafios e oportunidades empolgantes! 🎯
-  
+💡 Sou reconhecido pela minha capacidade analítica, resolução criativa de problemas e pelo compromisso inabalável com a qualidade do código, sempre apoiado por revisões rigorosas e boas práticas.
+
+✨ Se você busca um desenvolvedor que não apenas domina tecnologias consolidadas, mas também abraça o futuro com IA e tecnologias emergentes, vamos conversar! Estou sempre aberto a novos desafios e oportunidades empolgantes 🎯
 </p>
 <div align="center">
   <a href="https://github.com/frmichetti">

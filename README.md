@@ -22,12 +22,7 @@
 
 ✨ Se você busca um desenvolvedor que não apenas domina tecnologias consolidadas, mas também abraça o futuro com IA e tecnologias emergentes, vamos conversar! Estou sempre aberto a novos desafios e oportunidades empolgantes 🎯
 </p>
-<div align="center">
-  <a href="https://github.com/frmichetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frmichetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="270em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frmichetti&layout=compact&langs_count=30&theme=dracula&count_private=false"/>
-</div>
-  
+
 ### Linguagens e Framework Backend Preferidas  
 <div style="display: inline_block">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  

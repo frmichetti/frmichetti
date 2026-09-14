@@ -1,5 +1,5 @@
 ## Olá! 👋 Eu sou Felipe Rodrigues Michetti, Desenvolvedor de Sistemas e Entusiasta de Tecnologia em São José dos Campos - SP 🚀
-### Desenvolvedor Java com 9 anos de experiência em desenvolvimento de software, especializando-me em serviços web, microsserviços e APIs REST ☕
+### Desenvolvedor Java com 10+ anos de experiência em desenvolvimento de software, especializando-me em serviços web, microsserviços e APIs REST ☕
 ### Profissional apaixonado por tecnologias hype e inteligência artificial 🤖✨
 ### Desenvolvedor de Sistemas especialista em dados e integrações 📊
 #### Atuando como desenvolvedor Full Stack Java na Packsys Tecnologia da Informação 💼

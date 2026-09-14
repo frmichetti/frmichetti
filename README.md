@@ -68,7 +68,8 @@
 
 ## Conteúdos à Venda
 <div>
-  <a href="https://frmichetti.github.io/candy-fit-recipes-lp" target="_blank">Aplicativos de Receitas de Doces e Fit</a>
+  <a href="https://frmichetti.github.io/candy-fit-recipes-lp" target="_blank">Aplicativo de Receitas de Doces e Fit</a>
+  <br />
   <a href="https://frmichetti.github.io/material-ui-android-boot-lp" target="_blank">Suíte de 11 Modelos de Aplicativos</a>
 </div>
 
